@@ -1,0 +1,9 @@
+vehicle_id,battery_percent,battery_capacity_kwh,current_location,next_route_km,departure_time,status
+EV001,20,60,Station_A,100,07:00,Available
+EV002,75,50,Station_B,30,10:00,Available
+EV003,35,60,Station_C,80,07:30,Available
+EV004,65,55,Station_A,40,09:00,Available
+EV005,45,50,Station_B,60,08:30,Available
+EV006,90,60,Station_C,20,11:00,Available
+EV007,25,55,Station_A,90,07:00,Available
+EV008,55,50,Station_B,50,09:30,Available
